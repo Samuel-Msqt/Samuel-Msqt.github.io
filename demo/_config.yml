@@ -1,5 +1,5 @@
-title: cvless
-description: Jekyll theme for a beautiful online CV
+title: Samuel Mesquita
+description: Astrophysics student at the Observatory of Strasbourg
 baseurl: ""
 url: https://piazzai.github.io/cvless
 
@@ -48,4 +48,3 @@ plugins:
 
 sass:
   sourcemap: never
-  
