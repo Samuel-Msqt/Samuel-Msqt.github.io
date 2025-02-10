@@ -323,7 +323,13 @@ a.reversefootnote {
   a.reversefootnote:focus, a.reversefootnote:hover {
     font-weight: 700;
     border: none; }
-
+    
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
 #particles-js {
   width: 100%;
   height: 100vh;
