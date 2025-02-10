@@ -335,6 +335,7 @@ a.reversefootnote {
   background-attachment: fixed;
   background-color: var(--color-particles-background);
   overflow: hidden; /* Added to prevent overflow */
+  position: relative; /* Ensure proper positioning */
 }
   #particles-js .particles-js-canvas-el {
     width: 100%;
@@ -351,7 +352,8 @@ a.reversefootnote {
     pointer-events: none; }
 
 .fullscreen {
-  min-height: 100vh; }
+  min-height: 100vh; 
+  overflow: hidden;}
   .fullscreen h1,
   .fullscreen h2 {
     color: var(--color-particles-text); }
