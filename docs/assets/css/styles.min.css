@@ -524,9 +524,10 @@ a.pagination-item {
   #cv a.iconlink {
     display: none; } }
 
-html, body {
+html { overflow-y: hidden; }
+/* html, body {
   height: 100%;
   margin: 0;
   padding: 0;
   overflow: hidden;
-}
+} */
