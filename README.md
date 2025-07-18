@@ -1,3 +1,2 @@
 # Personnal website
-
-# Currently in construction !!!
+# /!\ Under construction /!\
