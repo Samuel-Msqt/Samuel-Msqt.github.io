@@ -44,7 +44,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Development and Validation of Physics Modules for the New Reionization Simulation Code Dyablo" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Samuel Mesquita"},"dateModified":"2025-07-25T00:43:33+02:00","description":"Internship made during my third year as an engineering student at Télécom Physique Strasbourg. Study done using the Dyablo simulation code to validate structure formation and improve reionization modeling.","headline":"Development and Validation of Physics Modules for the New Reionization Simulation Code Dyablo","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/logo.png"},"name":"Samuel Mesquita"},"url":"/cv/internship3/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Samuel Mesquita"},"dateModified":"2025-07-25T17:56:41+02:00","description":"Internship made during my third year as an engineering student at Télécom Physique Strasbourg. Study done using the Dyablo simulation code to validate structure formation and improve reionization modeling.","headline":"Development and Validation of Physics Modules for the New Reionization Simulation Code Dyablo","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/img/logo.png"},"name":"Samuel Mesquita"},"url":"/cv/internship3/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -109,7 +109,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
 !function(w) {
   w._baseURL = '/';
   w._publicPath = '/assets/js/';
-  w._noPushState = false;
+  w._noPushState = true;
   w._noDrawer = false;
   w._noNavbar = false;
   w._noToc = false;
@@ -117,7 +117,7 @@ Powered by Hydejack v9.2.1 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2025-07-25T00:43:35+02:00',
+    INDEX_KEY: 'index--2025-07-25T17:57:12+02:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -287,14 +287,14 @@ html{--accent-color: rgb(8, 100, 178);--accent-color-faded: rgba(8, 100, 178, 0.
 
 <script>
   document.getElementById('_pushState').addEventListener('hy-push-state-load', function() {
-    const url = "/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf"; // Use absolute path from site root
+    const url = "/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf"; 
     const loadingTask = pdfjsLib.getDocument(url);
     loadingTask.promise.then(pdf => {
       pdf.getPage(1).then(page => {
         const scale = 1.5;
         const viewport = page.getViewport({ scale });
         const canvas = document.getElementById('pdf-canvas');
-        if (!canvas) return; // avoid crash on non-PDF pages
+        if (!canvas) return; 
         const context = canvas.getContext('2d');
         canvas.height = viewport.height;
         canvas.width = viewport.width;
@@ -307,7 +307,7 @@ html{--accent-color: rgb(8, 100, 178);--accent-color-faded: rgba(8, 100, 178, 0.
     });
   });
 </script>
-
+<p>”</p>
 
 </article>
 
