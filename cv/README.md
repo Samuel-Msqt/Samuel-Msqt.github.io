@@ -26,7 +26,7 @@ Will be supervising 60h of physics class at the University during my first year 
 * [Supply Flow Monitoring - Material Supply Analysis and Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 09/2023-05/2024
 * [Extended Radio Emission and Star Formation in Cluster Spiral Galaxies]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 06-07/2023
 
-## Getting started
+<!-- ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
@@ -45,7 +45,7 @@ Will be supervising 60h of physics class at the University during my first year 
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
+{:.related-posts.faded} -->
 
 
 
