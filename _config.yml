@@ -60,12 +60,12 @@ menu:
     url: /cv/
   - title: Publications
     url: /publications/
-  - title:             Example (to remove)
-    url:               /example/
-  - title:             Documentation (to remove)
-    url:               /docs/
-  - title: Blog
-    url: /blog/
+  # - title:             Example (to remove)
+  #   url:               /example/
+  # - title:             Documentation (to remove)
+  #   url:               /docs/
+  # - title: Blog
+  #   url: /blog/
   - title: About
     url: /about/
 
