@@ -76,24 +76,24 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 | UE / Course Title                                                   | Hours |
 |---------------------------------------------------------------------|-------|
 | **UE Mathematics and Signal 2 (8 ECTS)**                            |       |
-| Statistics                                                          |       |
-| Finite Elements                                                     |       |
-| Digital Signal Processing                                           |       |
-| Random Signal Processing                                            |       |
+| Statistics                                                          | 17.5h |
+| Finite Elements                                                     | 8.75h |
+| Digital Signal Processing                                           | 28h |
+| Random Signal Processing                                            | 26.25h |
 | **UE Computer Science 2 (8 ECTS)**                                  |       |
-| Object-Oriented Programming, C++                                    |       |
-| Object-Oriented Design                                              |       |
-| Introduction to Embedded Systems                                    |       |
+| Object-Oriented Programming, C++                                    | 37h |
+| Object-Oriented Design                                              | 28.25h |
+| Introduction to Embedded Systems                                    | 20.50h |
 | **UE Applied Engineering (8 ECTS)**                                 |       |
-| Experimental Physics 1                                              |       |
-| Robotics and Control                                                |       |
-| Image and Vision                                                    |       |
-| Programmable Electronics                                            |       |
+| Experimental Physics 1                                              | 21.25h |
+| Robotics and Control                                                | 24.75h |
+| Image and Vision                                                    | 17.75h |
+| Programmable Electronics                                            | 19.5h |
 | **UE Human Science 3 (6 ECTS)**                                     |       |
-| English                                                             |       |
-| German                                                              |       |
-| Engineering Projects                                                |       |
-| MyJobGlasses                                                        |       |
+| English                                                             | 22h |
+| German                                                              | 22h |
+| Engineering Projects                                                | 70h |
+| MyJobGlasses                                                        | 13.5h |
 |---------------------------------------------------------------------|-------|
 | **Rank**                                                            | **9/70** |
 {:.stretch-table}
@@ -103,28 +103,29 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 | UE / Course Title                                                   | Hours |
 |---------------------------------------------------------------------|-------|
 | **UE Project – Internship (7 ECTS)**                                |       |
-| Engineering Project                                                 |       |
+| Engineering Project                                                 | 70h |
 | **UE Physics (4 ECTS)**                                             |       |
-| Statistical Mechanics                                               |       |
-| Atomic Physics 1                                                    |       |
+| Statistical Mechanics                                               | 35h |
+| Atomic Physics 1                                                    | 17h |
 | **UE Applied Physics (4 ECTS)**                                     |       |
-| Experimental Physics 2                                              |       |
-| Nanosciences                                                        |       |
-| Physical Simulations Using the Finite Element Method                |       |
+| Experimental Physics 2                                              | 24h |
+| Nanosciences                                                        | 11.5h |
+| Physical Simulations Using the Finite Element Method                | 12h |
 | **UE Specialized Physics (4 ECTS)**                                 |       |
-| Nuclear Physics                                                     |       |
-| Magnetism                                                           |       |
-| Relativity                                                          |       |
+| Atomic Physics 2                                                    | 7h |
+| Nuclear Physics                                                     | 21h |
+| Magnetism                                                           | 13.25h |
+| Relativity                                                          | 15h |
 | **UE Opening Physics (4 ECTS)**                                     |       |
-| LabVIEW Instrumentation and Simulation                              |       |
-| Semiconductors Physics and Application 2                            |       |
+| LabVIEW Instrumentation and Simulation                              | 14h |
+| Semiconductors Physics and Application 2                            | 11.5h |
 | **UE Supervised Individual Work (2 ECTS)**                          |  35h  |
 | **UE Human Science 3 (6 ECTS)**                                     |       |
-| English                                                             |       |
-| German                                                              |       |
-| Financial Management                                                |       |
-| Team Management                                                     |       |
-| Epistemology and the Construction of Knowledge 2                    |       |
+| English                                                             | 22h |
+| German                                                              | 22h |
+| Financial Management                                                | 10.5h |
+| Team Management                                                     | 8.75h |
+| Epistemology and the Construction of Knowledge 2                    | 10.5h |
 |---------------------------------------------------------------------|-------|
 | **Rank**                                                            | **15/36** |
 {:.stretch-table}
@@ -134,35 +135,34 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 | UE / Course Title                                                                       | Hours |
 |-----------------------------------------------------------------------------------------|-------|
 | **UE – Physics and Modeling (4 ECTS)**                                                  |       |
-| Physics and Modeling                                                                    |       |
-| Advanced Quantum and Statistical Physics                                                |       |
-| Parallel Computing                                                                      |       |
-| Physical Modeling and Numerical Simulation                                              |       |
+| Advanced Quantum and Statistical Physics                                                | 14h |
+| Parallel Computing                                                                      | 20h |
+| Physical Modeling and Numerical Simulation                                              | 20h |
 | **UE – Astrophysical Objects and Theories (6 ECTS)**                                    |       |
-| Introduction to Astrophysics                                                            |       |
-| Cosmology                                                                               |       |
-| Galaxies                                                                                |       |
-| Stellar Physics                                                                         |       |
-| Interstellar Medium                                                                     |       |
+| Introduction to Astrophysics                                                            | 10h |
+| Cosmology                                                                               | 16h |
+| Galaxies                                                                                | 22h |
+| Stellar Physics                                                                         | 16h |
+| Interstellar Medium                                                                     | 10h |
 | **UE – Numerical Physics and Astrophysical Medium Modeling (6 ECTS)**                   |       |
-| Introduction to Programming                                                             |       |
-| Plasmas and MHD                                                                         |       |
-| Numerical Methods                                                                       |       |
+| Introduction to Programming                                                             | 30h |
+| Plasmas and MHD                                                                         | 20h |
+| Numerical Methods                                                                       | 30h |
 | **UE – Data Analysis (3 ECTS)**                                                         |       |
-| Statistics, Inference and Machine Learning                                              |       |
-| Databases                                                                               |       |
+| Statistics, Inference and Machine Learning                                              | 20h |
+| Databases                                                                               | 20h |
 | **UE – Options (3 ECTS)**                                                               |       |
-| Inverse Problem Theory and Advanced Data Analysis                                       |       |
-| High Energy Astrophysics                                                                |       |
+| Evolution of Galaxies                                                                   | 20h |
+| Inverse Problem Theory and Advanced Data Analysis                                       | 20h |
+| High Energy Astrophysics                                                                | 20h |
 | **UE – Business (5 ECTS)**                                                              |       |
-| Economic Intelligence                                                                   |       |
-| Quality                                                                                 |       |
-| Industrial Property and Patents                                                         |       |
-| Entrepreneurship                                                                        |       |
-| **UE – Languages (3 ECTS)**                                                             |       |
-| English: Present to the General Public                                                  |       |
-| English: Popularize in Writing                                                          |       |
-| German: Interact with One’s Studies                                                     |       |
+| Economic Intelligence                                                                   | 12h |
+| Quality                                                                                 | 16h |
+| Industrial Property and Patents                                                         | 16h |
+| Entrepreneurship                                                                        | 28h |
+| **UE – Languages (3 ECTS)**                                                             |      |
+| English                                                                                 | 28h |
+| German                                                                                  | 28h |
 |-----------------------------------------------------------------------------------------|-------|
 | **Rank**                                                                            | **3/19** |
 {:.stretch-table}
@@ -177,7 +177,7 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 | **UE 2 – Professional Integration (3 ECTS)**                        |       |
 | Seminars, Professional Forum, and Internship Host Institute Projects | 6h   |
 | **UE 3 – Internship (21 ECTS)**                                     |       |
-| [Internship]{:headingflip-title}                                    |       |
+| [Internship]{:headingflip-title}                                    | 22 weeks |
 |---------------------------------------------------------------------|-------|
 | **Rank**                                                            | **4/13** |
 {:.stretch-table}
