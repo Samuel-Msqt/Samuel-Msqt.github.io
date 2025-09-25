@@ -263,5 +263,5 @@ mastodon:
   icon: icon-mastodon
 orcid:
   name: Orcid
-  icon: /assets/svg/orcid_logo.svg
+  image: /assets/svg/orcid_logo.svg
   prepend: 'https://orcid.org/'
