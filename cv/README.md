@@ -9,8 +9,7 @@ permalink: /cv/
 ---
 
 ## Status
-PhD student in astrophysics at LPSC since fall 2025.  
-Also supervising 60h of physics class at the University during my first year of PhD.
+PhD student in astrophysics at LPSC.
 
 ## Education
 * [Astrophysics & Data Science Master 2]{:.heading.flip-title} --- University of Strasbourg - Stasbourg, France - 2024/2025
