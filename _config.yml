@@ -60,6 +60,10 @@ menu:
     url: /cv/
   - title: Publications
     url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Teaching
+    url: /teeaching/
   # - title:             Example (to remove)
   #   url:               /example/
   # - title:             Documentation (to remove)
