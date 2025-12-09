@@ -28,15 +28,15 @@ description:           >
   Samuel Mesquita's online CV.
 
 # A shorter description for the sidebar.
-tagline:               PhD student in astrophysics
+tagline:               PhD student in Astrophysics
 
 # A list of keywords for your blog
-keywords:              ["Samuel Mesquita", "PhD student", "astrophysics", "overvational cosmology"]
+keywords:              ["Samuel Mesquita", "PhD student", "Astrophysics", "Observational Cosmology"]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/photo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -63,7 +63,7 @@ menu:
   - title: Talks
     url: /talks/
   - title: Teaching
-    url: /teeaching/
+    url: /teaching/
   # - title:             Example (to remove)
   #   url:               /example/
   # - title:             Documentation (to remove)
