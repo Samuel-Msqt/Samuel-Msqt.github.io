@@ -2,7 +2,7 @@
 layout: page
 title: LSST France days - 24/11/2025
 description: >
-  The LSST France Days bring together staff working on the telescope twice per year to review the progress of the project.
+    The LSST France Days bring together staff working on the telescope twice per year to review the progress of the project.
 hide_description: false
 sitemap: false
 ---
