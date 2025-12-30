@@ -12,6 +12,6 @@ permalink: /talks/
 
 ### LSST France days
 
-- [LPSC - Grenoble, France - 24/11/2025]{:.heading.flip-title}
+- [LPSC - Grenoble, France - 24/11/2025]
 
 [LPSC - Grenoble, France - 24/11/2025]: lsstfrance241125.md
