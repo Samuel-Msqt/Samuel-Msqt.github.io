@@ -32,5 +32,5 @@ Semester 2 :
 
 ## My added value
 
-- Contributed to the creation of exercises for exams and help increasing the bank of exercices for small exams at the end of each chapter.
+- Contributed to the creation of exercises for exams and help increasing the bank of exercices for small tests at the end of each chapter.
 - Assisted in supervising and grading exams.
