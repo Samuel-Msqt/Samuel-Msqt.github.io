@@ -16,3 +16,9 @@ Accurate modeling of structure formation and reionization is crucial to understa
 This project has been successful : the validation confirmed the consistency of the structure formation module with theoretical expectations and we were able to use those results as a basis to improve reionization scenarios produced by _Dyablo_.
 
 **Keywords :** reionization, high performance computing, structure formation, numerical simulations.
+
+---
+
+### Full Report
+
+[Download the full internship report (PDF)](/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf){:.btn.btn-primary}
