@@ -38,6 +38,10 @@ keywords:              ["Samuel Mesquita", "PhD student", "Astrophysics", "Obser
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
+# Favicon and touch icons
+favicon:               /assets/icons/favicon.png
+apple_touch_icon:      /assets/icons/icon-192x192.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
