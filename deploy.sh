@@ -17,7 +17,18 @@ git push origin $CURRENT_BRANCH
 # Clean and rebuild the site
 echo "Cleaning and rebuilding site..."
 rm -rf _site
-bundle exec jekyll build
+# bundle exec jekyll build
+
+# Ensure production environment so generated URLs and sitemap use the real site URL
+echo "Building site with JEKYLL_ENV=production..."
+JEKYLL_ENV=production bundle exec jekyll build
+
+# If a CNAME exists at repo root, copy it into the generated site so GitHub Pages
+# preserves the custom domain when we push the _site subtree.
+if [ -f CNAME ]; then
+	echo "Copying CNAME into _site to preserve custom domain..."
+	cp CNAME _site/CNAME
+fi
 
 # Push the contents of _site to gh-pages, overwriting the remote branch
 echo "Deploying _site to gh-pages..."
