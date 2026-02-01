@@ -34,4 +34,4 @@ fi
 echo "Deploying _site to gh-pages..."
 git push origin "$(git subtree split --prefix _site $CURRENT_BRANCH)":gh-pages --force
 
-echo "Deployment complete. Site should be live in a minute."
+echo "Deployment complete. Site should be live in a minute at https://msqt.fr."
