@@ -2,7 +2,7 @@
 layout: page
 title: Classical Mechanics
 description: >
-  Prestigious “Q-Master” scholarship for MSc students.
+  Classical Mechanics for first year undergraduate students in Mathematics-Computer Science at University of Grenoble Alpes.
 hide_description: true
 sitemap: false
 ---
@@ -17,13 +17,13 @@ First year undergraduate students in Mathenatics-Computer Science at University 
 
 ## Course Content
 
-Semester 1 :
+#### Semester 1 :
 
 - Laws of Newtonian mechanics.
 - Solid and liquid friction.
 - Energy conservation.
 
-Semester 2 :
+#### Semester 2 :
 
 - Collisions.
 - Cinematics.
