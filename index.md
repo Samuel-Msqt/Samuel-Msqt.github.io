@@ -3,6 +3,7 @@ layout: about
 title: Samuel Mesquita
 description: >
   PhD student in Astrophysics. Welcome to my personal website.
+hide_description: true
 last_modified_at: 2026-01-31
 cover: true
 ---
