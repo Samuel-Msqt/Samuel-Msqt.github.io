@@ -11,9 +11,9 @@ sitemap: false
 
 I completed the two-year program of Preparatory Classes for the Grandes Écoles (CPGE) at Kerichen High School in Brest, France. The first year was in Mathematics, Physics and Engineering Sciences (MPSI) and the second year was in Mathematics and Physics (MP).
 
-In each of the following table, one may add 2h of khôlle (oral exam) per week. Those hour of oral exam happen after classes and aim at consolidate the knowledge acquired during the week. One hour of khôlle is dedicated to Mathematics and one hour to Physics or English (alternating). The khôlles are not included in the tables below.
+<!-- In each of the following table, one may add 2h of khôlle (oral exam) per week. Those hour of oral exam happen after classes and aim at consolidate the knowledge acquired during the week. One hour of khôlle is dedicated to Mathematics and one hour to Physics or English (alternating). The khôlles are not included in the tables below.
 
-We also had a 4h exam every saturday mornings, which is not included in the tables below.
+We also had a 4h exam every saturday mornings, which is not included in the tables below. -->
 
 ## Classes
 
@@ -27,6 +27,9 @@ We also had a 4h exam every saturday mornings, which is not included in the tabl
 | Engineering Sciences                                    | 2h|
 | French-Philosophy                                       | 2h|
 | English                                                 | 2h|
+| Mathematics Khôlle (oral exam)                          | 1h|
+| Physics or English Khôlle (oral exam)                   | 1h|
+| Saturday morning exam                                   | 4h|
 {:.stretch-table}
 
 ### Semester 2
@@ -40,6 +43,9 @@ We also had a 4h exam every saturday mornings, which is not included in the tabl
 | French-Philosophy                                       | 2h|
 | English                                                 | 2h|
 | TIPE (Supervised Personal Research Project)             | 2h|
+| Mathematics Khôlle (oral exam)                          | 1h|
+| Physics or English Khôlle (oral exam)                   | 1h|
+| Saturday morning exam                                   | 4h|
 {:.stretch-table}
 
 ### Semester 3 & 4
@@ -53,4 +59,7 @@ We also had a 4h exam every saturday mornings, which is not included in the tabl
 | French-Philosophy                                 | 2h|
 | English                                           | 2h|
 | TIPE (Supervised Personal Research Project)       | 2h|
+| Mathematics Khôlle (oral exam)                          | 1h|
+| Physics or English Khôlle (oral exam)                   | 1h|
+| Saturday morning exam                                   | 4h|
 {:.stretch-table}
