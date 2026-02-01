@@ -7,9 +7,14 @@ hide_description: true
 sitemap: false
 ---
 
-Presented the different scales of the Universe through an interactive video and quiz activities; introduced the LSST and its scientific goals.
+Presented the different scales of the Universe through the video video and quiz activities.  Also introduced the LSST and its scientific goals.
 
-Video used : https://www.youtube.com/watch?v=x896_J1k8rM
+Dates : 
+- Feb. 2026
+- Dec. 2025
+
+Video used: [Zooming out from Earth to the Observable Universe (ScienceClic)](https://www.youtube.com/watch?v=x896_J1k8rM)
+
 
 <div style="max-width:100%;position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
   <iframe src="https://www.youtube.com/embed/x896_J1k8rM"
@@ -18,6 +23,4 @@ Video used : https://www.youtube.com/watch?v=x896_J1k8rM
           allowfullscreen></iframe>
 </div>
 
-Dates : 
-- Feb. 2026
-- Dec. 2025
+
