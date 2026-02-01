@@ -31,7 +31,7 @@ Teaching assistant at the University of Grenoble.
 
 ## Academic Services
 * [Co-founder of the PhTea]{:.heading.flip-title} --- LPSC - Grenoble, France - 12/2025
-* [Member of the LOC for LSST France 2025 in Grenoble] --- LPSC - Grenoble, France - 11/2025
+* [Member of the LOC for LSST France 2025 in Grenoble]{:.heading.flip-title} --- LPSC - Grenoble, France - 11/2025
 
 ## Internships
 * [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
