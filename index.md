@@ -9,6 +9,4 @@ cover: true
 
 Welcome to my personal website! I am a PhD student in astrophysics at LPSC (Grenoble, France).
 
-<br>
-
 Check out my [CV](/cv/) to learn more about my background, or browse my [publications](/publications/) and [talks](/talks/).
