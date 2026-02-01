@@ -74,8 +74,8 @@ menu:
   #   url:               /docs/
   # - title: Blog
   #   url: /blog/
-  - title: About
-    url: /about/
+  # - title: About
+  #   url: /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -88,7 +88,7 @@ menu:
 #     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2025. All rights reserved.
+copyright:             © 2026. All rights reserved. | Website built with Jekyll and Hydejack.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -385,7 +385,6 @@ plugins:
 social:
   name:                Samuel Mesquita
   links:
-    # - https://twitter.com/<username>
     - https://github.com/Samuel-Msqt
 
 
