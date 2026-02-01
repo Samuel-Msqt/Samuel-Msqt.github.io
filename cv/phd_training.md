@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Mandatory PhD Training
-    Two-week introduction to modern cosmology and its challenges. Covering observational techniques, theoretical concepts, statistical methods and simulations.
 hide_description: false
 sitemap: false
 ---
