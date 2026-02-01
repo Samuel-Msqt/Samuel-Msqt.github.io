@@ -33,7 +33,7 @@ This project aims to develop advanced techniques to mitigate blending’s impact
 
 #### Methodology
 
-- Utilize **“blending entropy”**, a novel probabilistic technique, to quantify blending.  
+- Use the **blending entropy**, a novel probabilistic technique, to quantify blending.  
 - Employ machine learning to predict blending scores and mitigate its effects.  
 - Develop joint analysis techniques for LSST, Euclid, and Roman data.  
 
@@ -41,7 +41,7 @@ This project aims to develop advanced techniques to mitigate blending’s impact
 
 - Improved blending characterization tools for LSST data.  
 - Value-added catalogs enabling advanced blending mitigation.  
-- Enhanced cosmological constraints from combined LSST, Euclid, and Roman data.  
+- Enhanced cosmological constraints from combined LSST, Euclid and Roman data.  
 
 #### Expertise
 

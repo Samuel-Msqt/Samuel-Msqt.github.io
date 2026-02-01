@@ -9,9 +9,15 @@ permalink: /cv/
 ---
 
 ## Status
+0. Status
+{:toc}
+
 PhD student in Astrophysics at LPSC.
 
+Teaching assistant at the University of Grenoble.
+
 ## Education
+
 * [PhD - Observational Cosmology]{:.heading.flip-title} --- LPSC - Grenoble, France - 10/2025 to present
 * [MSc - Astrophysics & Data Science Master 2]{:.heading.flip-title} --- University of Strasbourg - Stasbourg, France - 2024/2025
 * [MEng - General Engineering Formation]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 2022/2025
@@ -19,6 +25,9 @@ PhD student in Astrophysics at LPSC.
 
 ## Grants
 * [QMat Excellence Scholarship]{:.heading.flip-title} --- University of Strasbourg - Stasbourg, France - 2024/2025
+
+## Scientific Collaborations
+* [Member of Rubin/LSST/DESC collaboration]{:.heading.flip-title} --- 10/2025 to present
 
 ## Internships
 * [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
@@ -54,6 +63,8 @@ PhD student in Astrophysics at LPSC.
 [Preparatory Classes for the Grandes Écoles]: prepa.md
 
 [QMat Excellence Scholarship]: qmat.md
+
+[Member of Rubin/LSST/DESC collaboration]: desc.md
 
 [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]: internship_m2.md
 [Machine Learning Exploration of ORR Catalytic Activity on Metallic (110) Surfaces]: internship_m1.md
