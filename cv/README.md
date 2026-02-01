@@ -39,6 +39,11 @@ Teaching assistant at the University of Grenoble.
 * [Supply Flow Monitoring - Material Supply Analysis and Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 09/2023-05/2024
 * [Extended Radio Emission and Star Formation in Cluster Spiral Galaxies]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 06-07/2023
 
+## Additional Training
+* [Euclid Summer School]{:.heading.flip-title} --- 08/2025
+* [Mandatory PhD Training]{:.heading.flip-title} --- 2025 to present
+* [Astronomical observations]{:.heading.flip-title} --- Observatory of Haute-Provence - St Michel l'Observatoire, France - 12/2024
+
 <!-- ## Getting started
 * [Install]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
@@ -78,6 +83,9 @@ Teaching assistant at the University of Grenoble.
 [Supply Flow Monitoring - Material Supply Analysis and Tracking Software for Nuclear Cycle Engineering]: sfm.md
 [Extended Radio Emission and Star Formation in Cluster Spiral Galaxies]: internship_l3.md
 
+[Euclid Summer School]: euclid_summerschool.md
+[Mandatory PhD Training]: phd_training.md
+[Astronomical observations]: ohp.md
 
 <!-- [install]: install.md
 [upgrade]: upgrade.md
