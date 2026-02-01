@@ -1,6 +1,6 @@
 ---
 layout: page
-title: General Engineering Formation
+title: MEng - General Engineering Formation
 description: >
     Multidisciplinary curriculum which offers a strong approach to understanding diverse engineering and physics principles and applications.
 hide_description: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Astrophysics & Data Science Master 2
+title: MSc - Astrophysics & Data Science Master 2
 description: >
     Study current astrophysical knowledge and methods: galaxy physics, stellar evolution,
     high-energy phenomena, virtual observatory tools and numerical simulations.
