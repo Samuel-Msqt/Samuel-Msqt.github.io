@@ -1,10 +1,3 @@
-# Samuel Mesquita's Personal Website
+# Samuel Mesquita — Personal Website
 
-Personal academic website showcasing my CV, publications, talks, and teaching activities.
-
-## Running locally
-1. Clone repository
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install`
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/>
+This repository contains the source for my personal academic website. It is built with Jekyll using the Hydejack theme (jekyll-theme-hydejack). The site is customized with personal content (CV, publications, talks, teaching notes).
