@@ -4,7 +4,7 @@ title: CV
 description: >
     No publications yet.
 hide_description: true
-sitemap: false
+sitemap: true
 permalink: /cv/
 ---
 
@@ -28,6 +28,10 @@ Teaching assistant at the University of Grenoble.
 
 ## Scientific Collaborations
 * [Member of Rubin/LSST/DESC collaboration]{:.heading.flip-title} --- 10/2025 to present
+
+## Academic Services
+* [Co-founder of the PhTea]{:.heading.flip-title} --- LPSC - Grenoble, France - 12/2025
+* [Member of the LOC for LSST France 2025 in Grenoble] --- LPSC - Grenoble, France - 11/2025
 
 ## Internships
 * [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
@@ -65,6 +69,9 @@ Teaching assistant at the University of Grenoble.
 [QMat Excellence Scholarship]: qmat.md
 
 [Member of Rubin/LSST/DESC collaboration]: desc.md
+
+[Co-founder of the PhTea]: phtea.md
+[Member of the LOC for LSST France 2025 in Grenoble]: loc_lsst_fr.md
 
 [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]: internship_m2.md
 [Machine Learning Exploration of ORR Catalytic Activity on Metallic (110) Surfaces]: internship_m1.md
