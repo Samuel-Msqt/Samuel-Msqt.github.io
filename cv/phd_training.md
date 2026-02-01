@@ -22,5 +22,5 @@ Doctoral training is mandatory and complements research work. It consists of 120
 * [Teaching Assistant]{:headingflip-title} --- 60h 
 
 [Euclid Summer School]: euclid_summerschool.md
-[Outreach to ninth grade students]: ../outreach/cosmology_workshop_ninth_grade.md
-[Teaching Assistant]: ../teaching/#during-phd-
+[Outreach to ninth grade students]: /outreach/cosmology_workshop_ninth_grade.md
+[Teaching Assistant]: /teaching/#during-phd-
