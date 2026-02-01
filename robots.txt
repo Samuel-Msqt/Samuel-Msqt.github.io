@@ -1,4 +1,7 @@
+---
+layout: null
+---
 User-agent: *
 Disallow:
 
-Sitemap: https://msqt.fr/sitemap.xml
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
