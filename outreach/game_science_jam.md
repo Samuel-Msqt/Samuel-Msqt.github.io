@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Science Jam
+title: Scientific Game Jam
 description: >
     
 hide_description: true
