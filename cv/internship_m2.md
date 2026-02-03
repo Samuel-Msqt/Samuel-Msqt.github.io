@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Development and Validation of Physics Modules for the New Reionization Simulation Code Dyablo
+title: New Reionization Simulation Code Dyablo
 description: >
   Internship made during my third year as an engineering student at Télécom Physique Strasbourg. Study done using the Dyablo simulation code to validate structure formation and improve reionization modeling.
 hide_description: false
 sitemap: false
 ---
 
-### Abstract :
+## Title :
+
+Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*
+
+## Location :
+
+Astronomical Observatory of Strasbourg - Stasbourg, France
+
+## Abstract :
 
 Modern Astrophysics increasingly relies on numerical simulations to test theoretical models and visualize complex processes without the need for expensive or time-consuming experimentation. In this context, the simulation code _Dyablo_ plays a major role. It is a high-performance hydrodynamics code that models astrophysical fluids designed to study the Epoch of Reionization in supercomputing environments using adaptive mesh refinement grids.
 

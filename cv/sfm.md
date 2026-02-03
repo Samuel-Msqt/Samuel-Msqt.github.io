@@ -1,14 +1,22 @@
 ---
 layout: page
-title: Supply Flow Monitoring - Material supply analysis and tracking software for nuclear cycle engineering
+title: Tracking Software for Nuclear Cycle Engineering
 description: >
     Software developed as part of an engineering project with a company as part of my engineering curriculum to monitor material supply compliance and production capacity in the nuclear sector. In collaboration with Orano.
 hide_description: false
 sitemap: false
 ---
 
+## Title :
 
-### Abstract :
+Supply Flow Monitoring - Material supply analysis and tracking software for nuclear cycle engineering
+
+## Location :
+
+Télécom Physique Strasbourg - Stasbourg, France\
+in collaboration with Orano - Chalon-sur-Saône, France
+
+## Abstract :
 
 The supply of materials (e.g., sheets, tubes, composite components in stainless steel, zirconium, aluminum) is based on both normative requirements and Orano’s specific requirements, which are defined in technical specifications and specifications documents for suppliers. Compliance with these requirements is verified through inspections and tests, accompanied by criteria or limit values that the supplier must meet (e.g., tensile tests for mechanical properties, tests for susceptibility to intergranular corrosion, control of neutron-absorbing elements, dimensional checks, etc.).
 

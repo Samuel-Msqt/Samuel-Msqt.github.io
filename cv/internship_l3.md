@@ -1,14 +1,21 @@
 ---
 layout: page
-title: Extended Radio Emission and Star Formation in Cluster Spiral Galaxies
+title: Radio Emission in Cluster Spiral Galaxies
 description: >
     Internship made during my first year as an engineering student at Télécom Physique Strasbourg. Study of radio halos and star formation in Virgo Cluster galaxies using VLA data.
 hide_description: false
 sitemap: false
 ---
 
+## Title :
 
-### Abstract :
+Extended Radio Emission and Star Formation in Cluster Spiral Galaxies
+
+## Location :
+
+Astronomical Observatory of Strasbourg - Stasbourg, France
+
+## Abstract :
 
 Radio waves emitted by galaxies give us precious informations on their shape, gaz diffusion method... Thanks to theVLA (Very Large Array), radio data from 6 galaxies in the Virgo Cluster have been collected at 6 and 20cm. After several modifications on the radio map (deprojections, convolutions...), it is possible to find a function (exponential or gaussian, modified or not) that fits the shape of the galaxy's radio halo.   
 To do that, the difference between the model and observations is calculated, functions that have the least difference are more thoroughly studied throughout different graphs. First, a graph that shows the height of the galaxy in kpc indicates right away if this height is physically plausible or not. Then, a "slice by slice" graph of the galaxy offers a precise way of determining which of the functions studied is the best. Finally, a graph of residuals gives a very visual way of comparing functions.

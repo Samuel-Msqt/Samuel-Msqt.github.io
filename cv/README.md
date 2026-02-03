@@ -34,36 +34,15 @@ Teaching assistant at the University of Grenoble.
 * [Member of the LOC for LSST France 2025]{:.heading.flip-title} --- LPSC - Grenoble, France - 11/2025
 
 ## Internships
-* [Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
-* [Machine Learning Exploration of ORR Catalytic Activity on Metallic (110) Surfaces]{:.heading.flip-title} --- Dutch Institure For Fundamental Energy Research (DIFFER) - Eindhoven, Netherlands - 06-08/2024
-* [Supply Flow Monitoring - Material Supply Analysis and Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 09/2023-05/2024
-* [Extended Radio Emission and Star Formation in Cluster Spiral Galaxies]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 06-07/2023
+* [New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
+* [Machine Learning Exploration of Catalytic Activity]{:.heading.flip-title} --- Dutch Institure For Fundamental Energy Research (DIFFER) - Eindhoven, Netherlands - 06-08/2024
+* [Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 09/2023-05/2024
+* [Radio Emission in Cluster Spiral Galaxies]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 06-07/2023
 
 ## Additional Training
 * [Euclid Summer School]{:.heading.flip-title} --- 08/2025
 * [Mandatory PhD Training]{:.heading.flip-title} --- 2025 to present
 * [Astronomical observations]{:.heading.flip-title} --- Observatory of Haute-Provence - St Michel l'Observatoire, France - 12/2024
-
-<!-- ## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
-{:.related-posts.faded}
-
-## Using Hydejack
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Deploy]{:.heading.flip-title} --- 🆕 How to deploy to a variety of popular providers.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-{:.related-posts.faded}
-
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded} -->
 
 
 [PhD - Observational Cosmology]: phd.md
@@ -78,10 +57,10 @@ Teaching assistant at the University of Grenoble.
 [Co-founder of the PhTea]: phtea.md
 [Member of the LOC for LSST France 2025]: loc_lsst_fr.md
 
-[Development and Validation of Physics Modules for the New Reionization Simulation Code *Dyablo*]: internship_m2.md
-[Machine Learning Exploration of ORR Catalytic Activity on Metallic (110) Surfaces]: internship_m1.md
-[Supply Flow Monitoring - Material Supply Analysis and Tracking Software for Nuclear Cycle Engineering]: sfm.md
-[Extended Radio Emission and Star Formation in Cluster Spiral Galaxies]: internship_l3.md
+[New Reionization Simulation Code *Dyablo*]: internship_m2.md
+[Machine Learning Exploration of Catalytic Activity]: internship_m1.md
+[Tracking Software for Nuclear Cycle Engineering]: sfm.md
+[Radio Emission in Cluster Spiral Galaxies]: internship_l3.md
 
 [Euclid Summer School]: euclid_summerschool.md
 [Mandatory PhD Training]: phd_training.md
