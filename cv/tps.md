@@ -9,7 +9,7 @@ sitemap: false
 
 ## Context
 
-After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-title}, I was admitted to the General Engineering Formation at the Grande École : **Télécom Physique Strasbourg**. This is a 3-year program that gives a master's degree in engineering. I have decided to specialize in Physics and Modeling and later do a double diploma with the [Astrophysics & Data Science Master 2]{:.heading.flip-title} at the University of Strasbourg.
+After finishing my [Preparatory Classes for the Grandes Écoles], I was admitted to the General Engineering Formation at the Grande École : [Télécom Physique Strasbourg]{:target="_blank"}. This is a 3-year program that gives a master's degree in engineering. I have decided to specialize in Physics and Modeling and later do a double diploma with the [Astrophysics & Data Science Master 2] at the University of Strasbourg.
 
 
 ## Classes
@@ -185,3 +185,5 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 [Preparatory Classes for the Grandes Écoles]: prepa.md
 [Astrophysics & Data Science Master 2]: ads.md
 [Internship]: internship_m2.md
+
+[Télécom Physique Strasbourg]: https://www.telecom-physique.fr/en/school/about-us/

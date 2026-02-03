@@ -8,4 +8,4 @@ sitemap: true
 permalink: /publications/
 ---
 
-No publications yet.
+No publications yet. :(

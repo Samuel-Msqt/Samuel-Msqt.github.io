@@ -13,7 +13,7 @@ Extended Radio Emission and Star Formation in Cluster Spiral Galaxies
 
 ## Location :
 
-Astronomical Observatory of Strasbourg - Stasbourg, France
+[Astronomical Observatory of Strasbourg]{:target="_blank"} - Stasbourg, France
 
 ## Abstract :
 
@@ -23,3 +23,6 @@ To do that, the difference between the model and observations is calculated, fun
 After finding the best function for each of the 6 galaxies, we can note the heights and radio flux inside the thin disk and radio halo to make a more general study. CHANG-ES showed the linear link between height and radio halo height, the galaxies studied here seem to also follow this link. Moreover, another relation found here show the linear decrease of SFR and radio flux, the higher the SFR, the lower the radio flux. This last result needs to be confirmed by a larger study.
 
 **Keywords :** Virgo Cluster, radio halo, star formation rate (SFR), morphological fitting, observational modeling.
+
+
+[Astronomical Observatory of Strasbourg]: https://astro.unistra.fr/en/

@@ -13,8 +13,8 @@ Supply Flow Monitoring - Material supply analysis and tracking software for nucl
 
 ## Location :
 
-Télécom Physique Strasbourg - Stasbourg, France\
-in collaboration with Orano - Chalon-sur-Saône, France
+[Télécom Physique Strasbourg]{:target="_blank"} - Stasbourg, France\
+in collaboration with [Orano]{:target="_blank"} - Chalon-sur-Saône, France
 
 ## Abstract :
 
@@ -25,3 +25,6 @@ This scope involves several engineering fields: the prescribing field (in this c
 The objective of this project is to develop software that facilitates collaboration across these fields and is specifically tailored to meet this need (unlike purely statistical software such as Minitab or JMP).
 
 **Keywords :** material compliance, nuclear supply chain, quality control software, production capacity analysis, materials engineering.
+
+[Télécom Physique Strasbourg]: https://www.telecom-physique.fr/en/school/about-us/
+[Orano]: https://www.orano.group/en

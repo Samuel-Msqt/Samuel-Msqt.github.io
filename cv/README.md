@@ -12,15 +12,15 @@ permalink: /cv/
 0. Status
 {:toc}
 
-PhD student in Astrophysics at LPSC.
+PhD student in Astrophysics at [LPSC]{:target="_blank"}.
 
 Teaching assistant at the University of Grenoble.
 
 ## Education
 
-* [PhD - Observational Cosmology]{:.heading.flip-title} --- LPSC - Grenoble, France - 10/2025 to present
-* [MSc - Astrophysics & Data Science Master 2]{:.heading.flip-title} --- University of Strasbourg - Stasbourg, France - 2024/2025
-* [MEng - General Engineering Formation]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 2022/2025
+* [PhD - Observational Cosmology]{:.heading.flip-title} --- [LPSC]{:target="_blank"} - Grenoble, France - 10/2025 to present
+* [MSc - Astrophysics & Data Science Master 2]{:.heading.flip-title} --- [ObAS]{:target="_blank"} - Stasbourg, France - 2024/2025
+* [MEng - General Engineering Formation]{:.heading.flip-title} --- [TPS]{:target="_blank"} - Stasbourg, France - 2022/2025
 * [Preparatory Classes for the Grandes Écoles]{:.heading.flip-title} --- Kerichen High School - Brest, France - 2020/2022
 
 ## Grants
@@ -30,19 +30,19 @@ Teaching assistant at the University of Grenoble.
 * [Member of Rubin/LSST/DESC collaboration]{:.heading.flip-title} --- 10/2025 to present
 
 ## Academic Services
-* [Co-founder of the PhTea]{:.heading.flip-title} --- LPSC - Grenoble, France - 12/2025
-* [Member of the LOC for LSST France 2025]{:.heading.flip-title} --- LPSC - Grenoble, France - 11/2025
+* [Co-founder of the PhTea]{:.heading.flip-title} --- [LPSC]{:target="_blank"} - Grenoble, France - 12/2025
+* [Member of the LOC for LSST France 2025]{:.heading.flip-title} --- [LPSC]{:target="_blank"} - Grenoble, France - 11/2025
 
 ## Internships
-* [New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 02-08/2025
-* [Machine Learning Exploration of Catalytic Activity]{:.heading.flip-title} --- Dutch Institure For Fundamental Energy Research (DIFFER) - Eindhoven, Netherlands - 06-08/2024
-* [Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- Télécom Physique Strasbourg - Stasbourg, France - 09/2023-05/2024
-* [Radio Emission in Cluster Spiral Galaxies]{:.heading.flip-title} --- Astronomical Observatory of Strasbourg - Stasbourg, France - 06-07/2023
+* [New Reionization Simulation Code *Dyablo*]{:.heading.flip-title} --- [ObAS]{:target="_blank"} - Stasbourg, France - 02-08/2025
+* [Machine Learning Exploration of Catalytic Activity]{:.heading.flip-title} --- [DIFFER]{:target="_blank"} - Eindhoven, Netherlands - 06-08/2024
+* [Tracking Software for Nuclear Cycle Engineering]{:.heading.flip-title} --- [TPS]{:target="_blank"} - Stasbourg, France - 09/2023-05/2024
+* [Radio Emission in Cluster Spiral Galaxies]{:.heading.flip-title} --- [ObAS]{:target="_blank"} - Stasbourg, France - 06-07/2023
 
 ## Additional Training
 * [Euclid Summer School]{:.heading.flip-title} --- 08/2025
 * [Mandatory PhD Training]{:.heading.flip-title} --- 2025 to present
-* [Astronomical observations]{:.heading.flip-title} --- Observatory of Haute-Provence - St Michel l'Observatoire, France - 12/2024
+* [Astronomical observations]{:.heading.flip-title} --- [OHP]{:target="_blank"} - St Michel l'Observatoire, France - 12/2024
 
 
 [PhD - Observational Cosmology]: phd.md
@@ -66,15 +66,12 @@ Teaching assistant at the University of Grenoble.
 [Mandatory PhD Training]: phd_training.md
 [Astronomical observations]: ohp.md
 
-<!-- [install]: install.md
-[upgrade]: upgrade.md
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[deploy]: deploy.md
-[advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md -->
+
+
+<!-- Websites -->
+
+[ObAS]: https://astro.unistra.fr/en/
+[LPSC]: https://lpsc.in2p3.fr/
+[TPS]: https://www.telecom-physique.fr/en/school/about-us/
+[DIFFER]: https://www.differ.nl/
+[OHP]: https://ohp.osupytheas.fr/

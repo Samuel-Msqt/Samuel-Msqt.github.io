@@ -13,7 +13,7 @@ Development and Validation of Physics Modules for the New Reionization Simulatio
 
 ## Location :
 
-Astronomical Observatory of Strasbourg - Stasbourg, France
+[Astronomical Observatory of Strasbourg]{:target="_blank"} - Stasbourg, France
 
 ## Abstract :
 
@@ -30,3 +30,6 @@ This project has been successful : the validation confirmed the consistency of t
 ### Full Report
 
 [Download the full internship report (PDF)](/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf){:.btn.btn-primary} -->
+
+
+[Astronomical Observatory of Strasbourg]: https://astro.unistra.fr/en/

@@ -13,7 +13,7 @@ Machine Learning Exploration of ORR Catalytic Activity on Metallic (110) Surface
 
 ## Location :
 
-Dutch Institure For Fundamental Energy Research (DIFFER) - Eindhoven, Netherlands
+[Dutch Institure For Fundamental Energy Research (DIFFER)]{:target="_blank"} - Eindhoven, Netherlands
 
 ## Abstract :
 
@@ -24,3 +24,5 @@ The significant advancements in quantum mechanics and particularly the developme
 Open-source resources like the OC20 database and the EquiformerV2 machine learning model, both developed by the Open Catalyst Project, were used to simulate the process happening in the fuel cell and revealed the best catalysts on alloys made from a list of 14 different transition metals. It has been found that platinum, antimony and their allows are notably efficient for the considered reaction. Further studies showed that local and global electronegativity, atomic radius, first ionization energy and generalized coordination number do not influence the efficiency of a catalyst.  
 
 **Keywords :** Renewable energy, catalyst, fuel cell, adsorption, machine learning.
+
+[Dutch Institure For Fundamental Energy Research (DIFFER)]: https://www.differ.nl/
