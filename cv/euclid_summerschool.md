@@ -9,7 +9,8 @@ sitemap: false
 
 This program covers all aspects of modern cosmology. It begins with an introduction to the essential instrumental tools and techniques, including the design of instruments aimed at meeting scientific objectives, instrument performance, as well as photometry and spectroscopy methods.
 
-The program also includes an introduction to cosmological simulations and advanced statistical techniques, with a particular emphasis on forecasting, machine learning, and the use of scientific software tools, notably Python.
+
+The program also includes an introduction to cosmological simulations and advanced statistical techniques, with a particular emphasis on forecasting, machine learning and the use of scientific software tools.
 
 * Foundations of the standard cosmological model  
 * Galaxy clustering

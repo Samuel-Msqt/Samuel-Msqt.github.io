@@ -70,16 +70,11 @@ menu:
     url: /teaching/
   - title: Outreach
     url: /outreach/
+  # - title: Research
+  #   url: /research/
   # - title: Tutorials
   #   url: /tutos/
-  # - title:             Example (to remove)
-  #   url:               /example/
-  # - title:             Documentation (to remove)
-  #   url:               /docs/
-  # - title: Blog
-  #   url: /blog/
-  # - title: About
-  #   url: /about/
+
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -115,7 +110,7 @@ theme: jekyll-theme-hydejack
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
- 
+
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(8, 100, 178)
