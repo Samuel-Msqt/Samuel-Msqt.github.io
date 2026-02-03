@@ -17,8 +17,8 @@ This project has been successful : the validation confirmed the consistency of t
 
 **Keywords :** reionization, high performance computing, structure formation, numerical simulations.
 
----
+<!-- ---
 
 ### Full Report
 
-[Download the full internship report (PDF)](/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf){:.btn.btn-primary}
+[Download the full internship report (PDF)](/assets/pdf/ADS_MESQUITA_Samuel_Rapport_3A.pdf){:.btn.btn-primary} -->

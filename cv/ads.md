@@ -53,4 +53,4 @@ I completed this Master's program while simultaneously attending classes during 
 
 
 [Télécom Physique Strasbourg]: tps.md
-[Internship]: internship3.md
+[Internship]: internship_m2.md

@@ -184,4 +184,4 @@ After finishing my [Preparatory Classes for the Grandes Écoles]{:.heading.flip-
 
 [Preparatory Classes for the Grandes Écoles]: prepa.md
 [Astrophysics & Data Science Master 2]: ads.md
-[Internship]: internship3.md
+[Internship]: internship_m2.md
